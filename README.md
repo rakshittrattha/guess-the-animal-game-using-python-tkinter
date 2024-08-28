@@ -23,4 +23,4 @@ The Animal Guessing Game is a simple and engaging desktop application built with
 - **Start the Game**: Click the "Start Game" button to receive a hint.
 - **Submit Your Guess** Enter your guess into the input field and click "Submit Guess."
 - **Review Feedback**: You will be notified whether your guess is correct or incorrect, and the number of attempts remaining will be displayed.
--**Restart the Game**: The game will automatically reset after a win or loss, allowing you to play again.
+- **Restart the Game**: The game will automatically reset after a win or loss, allowing you to play again.
